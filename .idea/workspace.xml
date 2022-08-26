@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdf185d9-71aa-4354-a462-d724e9681903" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
-    "last_opened_file_path": "/home/vi/work/GIT/ageyev@github.com/pgp-tools/pgp-tools/src/test/resources",
+    "last_opened_file_path": "/home/vi/work/GIT/ageyev@github.com/pgp-tools",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -166,6 +162,7 @@
       <updated>1661245814406</updated>
       <workItem from="1661245816811" duration="12748000" />
       <workItem from="1661510797933" duration="10406000" />
+      <workItem from="1661522241281" duration="34000" />
     </task>
     <servers />
   </component>
