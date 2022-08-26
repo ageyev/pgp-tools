@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf185d9-71aa-4354-a462-d724e9681903" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-jdk15on/1.70/bcpg-jdk15on-1.70-sources.jar!/org/bouncycastle/openpgp/PGPPublicKey.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dkb1AfeQCmJHf0xN38EE1mPPBc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_opened_file_path": "/home/vi/work/GIT/ageyev@github.com/pgp-tools/pgp-tools/src/test/resources",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.ageyev.github" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PgpDecryptTest.decryptBinaryFile">
+    <configuration name="KeyToolsTest.writeAndReadPgpPublicKeyToDir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgp-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.ageyev.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.ageyev.github" />
+      <option name="MAIN_CLASS_NAME" value="io.ageyev.github.KeyToolsTest" />
+      <option name="METHOD_NAME" value="writeAndReadPgpPublicKeyToDir" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PgpDecryptTest.decryptBinaryFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgp-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.ageyev.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.ageyev.github" />
+      <option name="MAIN_CLASS_NAME" value="io.ageyev.github.PgpDecryptTest" />
+      <option name="METHOD_NAME" value="decryptBinaryFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PgpEncryptTest.encryptFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgp-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.ageyev.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.ageyev.github" />
+      <option name="MAIN_CLASS_NAME" value="io.ageyev.github.PgpEncryptTest" />
+      <option name="METHOD_NAME" value="encryptFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PgpEncryptTest.encryptFileAsciiArmored" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgp-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.ageyev.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.ageyev.github" />
+      <option name="MAIN_CLASS_NAME" value="io.ageyev.github.PgpEncryptTest" />
+      <option name="METHOD_NAME" value="encryptFileAsciiArmored" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PgpEncryptTest.encryptFileBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgp-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.ageyev.github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.ageyev.github" />
+      <option name="MAIN_CLASS_NAME" value="io.ageyev.github.PgpEncryptTest" />
+      <option name="METHOD_NAME" value="encryptFileBinary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PgpDecryptTest.decryptBinaryFile" />
+        <item itemvalue="JUnit.PgpEncryptTest.encryptFileBinary" />
+        <item itemvalue="JUnit.PgpEncryptTest.encryptFileAsciiArmored" />
+        <item itemvalue="JUnit.PgpEncryptTest.encryptFile" />
+        <item itemvalue="JUnit.KeyToolsTest.writeAndReadPgpPublicKeyToDir" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf185d9-71aa-4354-a462-d724e9681903" name="Changes" comment="" />
+      <created>1661245814406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661245814406</updated>
+      <workItem from="1661245816811" duration="12748000" />
+      <workItem from="1661510797933" duration="10406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
